@@ -3,9 +3,9 @@
 只有一个main文件，里面有四个函数
 
 # 1、数据生成函数
-  def Databuild(sample_num, cla_num, *cla_locat)  
-  # 输入依次是样本数, 类别数，类别中心
-  # 输出数据数组
+  # def Databuild(sample_num, cla_num, *cla_locat)  
+    # 输入依次是样本数, 类别数，类别中心
+    # 输出数据数组
 
 # 2、VQ-LBG函数
   def VQ_LBG(code_num, para1 ,data)
